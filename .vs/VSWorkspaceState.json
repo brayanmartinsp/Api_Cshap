@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiSistemaEstoque",
+    "\\ApiSistemaEstoque\\PrimeiraApi",
+    "\\ApiSistemaEstoque\\PrimeiraApi\\Controllers",
+    "\\ApiSistemaEstoque\\PrimeiraApi\\Service\\ProdutoService"
+  ],
+  "SelectedNode": "\\ApiSistemaEstoque\\PrimeiraApi.slnx",
+  "PreviewInSolutionExplorer": false
+}
